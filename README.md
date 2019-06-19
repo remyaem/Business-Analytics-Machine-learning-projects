@@ -28,7 +28,7 @@ Template code is provided in the .ipynb notebook files. You can jump to the note
 
 ## Run
 Download the required notebooks. In a terminal or command window, navigate to the top-level project directory(that contains this README) and run one of the following commands:
-$ jupyter nbconvert --to htmlipython notebook notebookname.ipynb 
+$ jupyter nbconvert --to html ipython notebook notebookname.ipynb 
 or
 jupyter notebook notebookname.ipynb
 

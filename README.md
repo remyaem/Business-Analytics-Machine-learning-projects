@@ -29,7 +29,7 @@ Template code is provided in the .ipynb notebook files. You can jump to the note
 ## Run
 Download the required notebooks. In a terminal or command window, navigate to the top-level project directory(that contains this README) and run one of the following commands:
 
-[]ipython notebook notebookname.ipynb
+[ ]ipython notebook notebookname.ipynb
 or
 [jupyter notebook notebookname.ipynb]
 
